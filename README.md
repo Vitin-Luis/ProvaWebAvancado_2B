@@ -1,7 +1,3 @@
-# Prova Web Avançado - 2º Bimestre
-
-Repositório designado para a prova de Web Avançado do segundo bimestre.
-
 ## Estrutura da API RESTful
 
 Este projeto é composto por duas aplicações:
